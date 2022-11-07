@@ -3,23 +3,23 @@ Smart home Automation technology, lifetime is getting easier and simpler on all 
 
 The basic components that react to the input are: 
 
-• LCD display
-To show the message of current status
+• LCD display :
+(To show the message of current status)
 
-• Gas Sensor
-Detects gas leakage
+• Gas Sensor :
+(Detects gas leakage)
 
-• PIR sensor
-Senses any movement of unwanted intruder
+• PIR sensor :
+(Senses any movement of unwanted intruder)
 
-•Flame Sensor
-For Fire Detection.
+•Flame Sensor :
+(For Fire Detection)
 
-•Vibration Sensor
-For Detection of vibrations on Window.
+•Vibration Sensor :
+(For Detection of vibrations on Window)
 
-•Ultrasonic Sensor
-For intruder Detection on Window.
+•Ultrasonic Sensor :
+(For intruder Detection on Window)
 
-• Buzzer
-Alarm rings for the consequence of unwanted event.
+• Buzzer :
+(Alarm rings for the consequence of unwanted event)
